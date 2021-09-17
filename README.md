@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beingprettysucks
-- 👀 I’m interested in anime,music,same vibes as me
-- 🌱 I’m currently learning how to speak Japanese 
-- 💞️ I’m looking to collaborate on something 
-- 📫 How to reach me no need
+- 👀 I’m interested in anime,music etc
+- 🌱 I’m currently learning nothing 
+- 💞️ I’m looking to collaborate on idk 
+- 📫 How to reach me, no need
 
 <!---
 beingprettysucks/beingprettysucks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
